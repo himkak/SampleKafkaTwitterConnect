@@ -2,6 +2,7 @@
 Kafka connector usage to fetch twitter tweets.
 Configure the twitter.properties to fetch the topics.
 # Usage
+- update the twitter properties, fetch the secrtes and api access keys from twitter devloper
 - start the zookeeper
 `zookeeper-server-start.sh config\zookeeper.properties`
 - start kafka broker
